@@ -1,14 +1,23 @@
-# José Alecrim
+<div align="center">
+  <br/>
+  
+  <img src="Your-GitHub-Profile-Picture-URL" alt="José Alecrim" width="150" />
+  
+  <h2>José Alecrim</h2>
+  <p>Empowering Solutions with AI and Scalable Systems</p>
+</div>
 
-**Empowering Solutions with AI and Scalable Systems**
+<br/>
 
-I'm a seasoned developer with over 5 years of experience in building scalable systems and innovative AI solutions. My passion lies in leveraging technology to solve complex challenges, and I've had the privilege of leading projects that impact over 90,000 monthly users. [cite: 1, 4]
+**About Me**
 
-At Mosca Branca Deep Tech, I'm at the forefront of designing cutting-edge AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) automation, and cybersecurity applications. [cite: 2] I've also spearheaded the end-to-end development of a governmental data analysis system, from design to deployment, utilizing FastAPI, PostgreSQL, and AWS. [cite: 3]
+I'm a highly motivated developer with over 5 years of experience crafting scalable systems and innovative AI solutions. My passion is to tackle complex challenges using cutting-edge technology. I've led projects that have positively impacted over 90,000 monthly users. [cite: 1] At Mosca Branca Deep Tech, I design innovative AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) automation, and cybersecurity. [cite: 2] I also spearheaded the end-to-end development of a governmental data analysis system, from design to deployment, using FastAPI, PostgreSQL, and AWS (ECS, S3). [cite: 3]
 
-**Technical Expertise**
+<br/>
 
-My core competencies span across several key areas:
+**Key Skills**
+
+I bring a diverse skill set to the table:
 
 * **AI & Machine Learning:** LLM Modeling, Deep Learning (TensorFlow), Real-time Processing, IoT (Smart Grid), Big Data Architectures. [cite: 5]
 * **Software Engineering:** Python, Golang, Spark, Kafka, Airflow, SQL/HiveQL, Power BI. [cite: 6]
@@ -16,16 +25,28 @@ My core competencies span across several key areas:
 * **Optimization:** High-performance algorithms, query tuning, cloud cost reduction (30% AWS). [cite: 7]
 * **IoT & Real-Time:** Solar energy projects with real-time data processing and IoT device integration. [cite: 8]
 
-**AI Focus**
+<br/>
 
-I specialize in developing AI agents using Retrieval-Augmented Generation (RAG) for efficient knowledge retrieval, task automation, and seamless platform integration. [cite: 11] My expertise extends to vector-based challenges, optimizing LLMs, and enhancing AI-driven search and response generation through graph-based AI methodologies. [cite: 12]
+**AI Expertise**
 
-**Featured Projects**
+My focus within AI includes:
 
-* **Governmental Data Analysis System:** Led the end-to-end development of a system used by over 70,000 users, leveraging FastAPI, PostgreSQL, and AWS. [cite: 13, 14]
-* **Mosca Branca Deep Tech AI Solutions:** Designing innovative AI solutions, including LLMs, RAG automation, and cybersecurity. [cite: 2]
+* Developing AI agents with Retrieval-Augmented Generation (RAG) for efficient knowledge retrieval and task automation. [cite: 11]
+* Specializing in vector-based challenges to optimize Large Language Models (LLMs). [cite: 12]
+* Enhancing AI-driven search and response generation through graph-based AI methodologies. [cite: 12]
 
-**Professional Experience**
+<br/>
+
+**Projects**
+
+**Highlighted Projects**
+
+* **Governmental Data Analysis System:** Led the full development lifecycle of a system for governmental data analysis, serving over 70,000 users. Technologies used: FastAPI, PostgreSQL, AWS (ECS, S3). [cite: 13, 14]
+* **Mosca Branca Deep Tech AI Solutions:** Creation of innovative AI solutions, encompassing LLMs, RAG automation, and cybersecurity applications. [cite: 2]
+
+<br/>
+
+**Experience**
 
 * **Senior Golang Developer | AI Engineer at Mosca Branca** (Current) [cite: 11]
 * **Senior Python Developer at Cfit healthtech analytics** (Mai 2023 - Set 2024) [cite: 13]
@@ -33,15 +54,19 @@ I specialize in developing AI agents using Retrieval-Augmented Generation (RAG) 
 * **Data Analyst at K2 consulting (Equinix)** (Jun 2022 - Set 2022) [cite: 18]
 * **Artificial Intelligence Analyst at Insole energia solar** (Abr 2020 - Jun 2022) [cite: 21]
 
+<br/>
+
 **Education**
 
-* **Centro Universitário UniFBV:** Bachelor's Degree in Electrical Engineering (2014-2020) [cite: 9]
+* **Centro Universitário UniFBV:** Bachelor's Degree in Electrical Engineering (2014-2020) [cite: 9, 10]
 * **Faculdade Descomplica:** MBA in BigData and Competitive Intelligence (2021-2022) [cite: 9, 10]
 
-**Connect with Me**
+<br/>
 
-* LinkedIn: [https://www.linkedin.com/in/jose-alecrim/?locale=en\_US](https://www.linkedin.com/in/jose-alecrim/?locale=en_US)
+**Let's Connect!**
+
+* [LinkedIn](https://www.linkedin.com/in/jose-alecrim/?locale=en_US)
 * E-mail: glebsonmac@gmail.com
 * WhatsApp: +55 (81) 981652295
 
-I'm always open to discussing exciting new opportunities and collaborations!
+<br/>
