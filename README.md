@@ -1,72 +1,20 @@
-<div align="center">
-  <br/>
-  
-  <img src="Your-GitHub-Profile-Picture-URL" alt="José Alecrim" width="150" />
-  
-  <h2>José Alecrim</h2>
-  <p>Empowering Solutions with AI and Scalable Systems</p>
-</div>
+<h1 align="center">Hi 👋, I'm Jose Alecrim</h1>
+<h3 align="center">I'm a highly motivated developer with over 5 years of experience crafting scalable systems and innovative AI solutions. My passion is to tackle complex challenges using cutting-edge technology. I've led projects that have positively impacted over 90,000 monthly users. At Mosca Branca Deep Tech, I design innovative AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) automation, and cybersecurity. I also spearheaded the end-to-end development of a governmental data analysis system, from design to deployment, using FastAPI, PostgreSQL, and AWS (ECS, S3).</h3>
 
-<br/>
+- 💬 Ask me about **IA, Math, Datascience, Machine Learn, Python, Go and Data engineer**
 
-**About Me**
+- 📫 How to reach me **https://www.linkedin.com/in/jose-alecrim/?locale=en_US**
 
-I'm a highly motivated developer with over 5 years of experience crafting scalable systems and innovative AI solutions. My passion is to tackle complex challenges using cutting-edge technology. I've led projects that have positively impacted over 90,000 monthly users.  At Mosca Branca Deep Tech, I design innovative AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) automation, and cybersecurity.  I also spearheaded the end-to-end development of a governmental data analysis system, from design to deployment, using FastAPI, PostgreSQL, and AWS (ECS, S3). 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/josealecrim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josealecrim" height="30" width="40" /></a>
+</p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-**Key Skills**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glebsonmac&show_icons=true&locale=en&layout=compact" alt="glebsonmac" /></p>
 
-I bring a diverse skill set to the table:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glebsonmac&show_icons=true&locale=en" alt="glebsonmac" /></p>
 
-* **AI & Machine Learning:** LLM Modeling, Deep Learning (TensorFlow), Real-time Processing, IoT (Smart Grid), Big Data Architectures. [cite: 5]
-* **Software Engineering:** Python, Golang, Spark, Kafka, Airflow, SQL/HiveQL, Power BI. 
-* **Cloud & Infrastructure:** AWS (ECS, S3, RDS), Azure, Hadoop, Apache Zeppelin. 
-* **Optimization:** High-performance algorithms, query tuning, cloud cost reduction (30% AWS). 
-* **IoT & Real-Time:** Solar energy projects with real-time data processing and IoT device integration. 
-
-<br/>
-
-**AI Expertise**
-
-My focus within AI includes:
-
-* Developing AI agents with Retrieval-Augmented Generation (RAG) for efficient knowledge retrieval and task automation. 
-* Specializing in vector-based challenges to optimize Large Language Models (LLMs). 
-* Enhancing AI-driven search and response generation through graph-based AI methodologies. 
-
-<br/>
-
-**Projects**
-
-**Highlighted Projects**
-
-* **Governmental Data Analysis System:** Led the full development lifecycle of a system for governmental data analysis, serving over 70,000 users. Technologies used: FastAPI, PostgreSQL, AWS (ECS, S3). 
-* **Mosca Branca Deep Tech AI Solutions:** Creation of innovative AI solutions, encompassing LLMs, RAG automation, and cybersecurity applications. 
-
-<br/>
-
-**Experience**
-
-* **Senior Golang Developer | AI Engineer at Mosca Branca** (Current) 
-* **Senior Python Developer at Cfit healthtech analytics** (Mai 2023 - Set 2024) 
-* **Data Engineer at K2 consulting (Roche)** (Set 2022 - Abr 2023) 
-* **Data Analyst at K2 consulting (Equinix)** (Jun 2022 - Set 2022) 
-* **Artificial Intelligence Analyst at Insole energia solar** (Abr 2020 - Jun 2022) 
-
-<br/>
-
-**Education**
-
-* **Centro Universitário UniFBV:** Bachelor's Degree in Electrical Engineering (2014-2020) 
-* **Faculdade Descomplica:** MBA in BigData and Competitive Intelligence (2021-2022) 
-
-<br/>
-
-**Let's Connect!**
-
-* [LinkedIn](https://www.linkedin.com/in/jose-alecrim/?locale=en_US)
-* E-mail: glebsonmac@gmail.com
-* WhatsApp: +55 (81) 981652295
-
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glebsonmac&" alt="glebsonmac" /></p>
